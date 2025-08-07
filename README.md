@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏜️ Trek des Gazelles - Sponsorship Website
 
-## Getting Started
+**An adventure in the Moroccan Desert awaits**
 
-First, run the development server:
+This website serves as the official sponsorship platform for **Fiona & Lucie's** participation in the prestigious **Trek des Gazelles du Désert** - Morocco's legendary all-female desert rally.
+
+## 🌟 About the Project
+
+The Trek des Gazelles is more than just a race; it's a journey of courage, solidarity, and adventure. This 9-day off-road navigation challenge through the Moroccan Sahara represents the ultimate test of endurance, teamwork, and determination.
+
+Our mission is to:
+- 🏃‍♀️ **Challenge ourselves** in one of the world's toughest desert rallies
+- 🤝 **Support charitable causes** through our solidarity engagement
+- 🌍 **Inspire others** to push their limits and embrace adventure
+
+## 🚀 Tech Stack
+
+- **Framework**: Next.js 14 with App Router
+- **UI Library**: Chakra UI
+- **Styling**: Modern flat design with responsive layout
+- **Deployment**: Ready for Vercel deployment
+
+## 💻 Development
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the website.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📸 Media Integration
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The design is optimized for rich visual storytelling with:
+- Background images and overlays
+- Transparent image effects
+- Modern flat design aesthetic
+- Mobile-responsive layouts
 
-## Learn More
+*Images will be added to the `/public` folder as the project progresses.*
 
-To learn more about Next.js, take a look at the following resources:
+## 🌐 Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The website is optimized for deployment on [Vercel](https://vercel.com), the platform from the creators of Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*Follow Fiona & Lucie's incredible journey as they prepare for their desert adventure! 🏜️✨*

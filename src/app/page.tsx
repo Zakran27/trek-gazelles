@@ -69,7 +69,7 @@ export default function Home() {
             </Text>
           </Heading>
           <Text color={'gray.500'} maxW={'3xl'} fontSize={{ base: 'lg', md: 'xl' }}>
-            Fiona & Lucie se lancent dans l'aventure du Trek des Gazelles au Maroc.
+            Fiona & Lucie se lancent dans l&apos;aventure du Trek des Gazelles au Maroc.
             Une course solidaire 100% féminine dans le désert marocain.
           </Text>
           <Stack gap={6} direction={'row'}>
@@ -147,7 +147,7 @@ export default function Home() {
                 <path fill="currentColor" d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/>
               </Icon>}
               title={'La Cause'}
-              text={"Soutenir des associations et sensibiliser à l'importance de l'engagement solidaire"}
+              text={"Soutenir des associations et sensibiliser à l&apos;importance de l&apos;engagement solidaire"}
             />
           </SimpleGrid>
         </Container>
@@ -160,8 +160,8 @@ export default function Home() {
             Le Projet
           </Heading>
           <Text fontSize="lg" color="gray.600" maxW="3xl" mx="auto">
-            Le Trek des Gazelles du Désert est bien plus qu'une simple aventure. 
-            C'est un projet solidaire et sportif qui nous permet de nous dépasser tout en soutenant des causes importantes.
+            Le Trek des Gazelles du Désert est bien plus qu&apos;une simple aventure. 
+            C&apos;est un projet solidaire et sportif qui nous permet de nous dépasser tout en soutenant des causes importantes.
           </Text>
         </Stack>
 
@@ -198,7 +198,7 @@ export default function Home() {
               La Course
             </Heading>
             <Text fontSize="lg" color="gray.600" maxW="3xl" mx="auto">
-              Le Trek des Gazelles du Désert est une course d'orientation 100% féminine qui se déroule chaque année 
+              Le Trek des Gazelles du Désert est une course d&apos;orientation 100% féminine qui se déroule chaque année 
               dans le désert marocain. Découvrez les détails de cette aventure extraordinaire.
             </Text>
           </Stack>
@@ -207,7 +207,7 @@ export default function Home() {
             <Box bg="white" p={6} rounded="lg" shadow="md" textAlign="center">
               <Text color="gray.600" fontSize="md">Durée</Text>
               <Text color="orange.600" fontSize="3xl" fontWeight="bold">9</Text>
-              <Text color="gray.500" fontSize="sm">jours d'aventure</Text>
+              <Text color="gray.500" fontSize="sm">jours d&apos;aventure</Text>
             </Box>
             <Box bg="white" p={6} rounded="lg" shadow="md" textAlign="center">
               <Text color="gray.600" fontSize="md">Distance</Text>
@@ -235,7 +235,7 @@ export default function Home() {
             Qui sommes-nous ?
           </Heading>
           <Text fontSize="lg" color="gray.600" maxW="3xl" mx="auto">
-            Nous sommes Fiona et Lucie, deux amies passionnées d'aventure et d'engagement solidaire. 
+            Nous sommes Fiona et Lucie, deux amies passionnées d&apos;aventure et d&apos;engagement solidaire. 
             Ensemble, nous avons décidé de relever le défi du Trek des Gazelles, une aventure qui nous tient à cœur.
           </Text>
         </Stack>
@@ -246,7 +246,7 @@ export default function Home() {
             <Stack gap={2}>
               <Heading size="md" color="orange.700">Fiona</Heading>
               <Text color="orange.500" fontWeight="medium">Aventurière & Organisatrice</Text>
-              <Text color="gray.600">Passionnée de randonnée et d'engagement associatif, Fiona apporte son expérience en organisation d'événements et sa détermination sans faille à ce projet.</Text>
+              <Text color="gray.600">Passionnée de randonnée et d&apos;engagement associatif, Fiona apporte son expérience en organisation d&apos;événements et sa détermination sans faille à ce projet.</Text>
             </Stack>
           </VStack>
           <VStack gap={4} textAlign="center">
@@ -269,7 +269,7 @@ export default function Home() {
             </Heading>
             <Text fontSize="lg" color="gray.600" maxW="3xl" mx="auto">
               En nous soutenant, vous participez à une aventure humaine exceptionnelle tout en bénéficiant 
-              d'une visibilité unique et d'un engagement fort auprès de nos communautés.
+              d&apos;une visibilité unique et d&apos;un engagement fort auprès de nos communautés.
             </Text>
           </Stack>
 
@@ -303,7 +303,7 @@ export default function Home() {
                 Intéressé par un partenariat ?
               </Heading>
               <Text color="gray.700" fontSize="lg">
-                Contactez-nous pour discuter d'une formule personnalisée adaptée à vos besoins
+                Contactez-nous pour discuter d&apos;une formule personnalisée adaptée à vos besoins
               </Text>
               <Stack direction={{ base: 'column', md: 'row' }} gap={4} justify="center">
                 <Button

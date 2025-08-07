@@ -2,7 +2,7 @@
 
 **An adventure in the Moroccan Desert awaits**
 
-This website serves as the official sponsorship platform for **Fiona & Lucie's** participation in the prestigious **Trek des Gazelles du Désert** - Morocco's legendary all-female desert rally.
+This website serves as the official sponsorship platform for my girlfriend and her friend's participation in the prestigious **Trek des Gazelles du Désert** - Morocco's legendary all-female desert rally.
 
 ## 🌟 About the Project
 
@@ -19,16 +19,6 @@ Our mission is to:
 - **UI Library**: Chakra UI
 - **Styling**: Modern flat design with responsive layout
 - **Deployment**: Ready for Vercel deployment
-
-## 💻 Development
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view the website.
 
 ## 📸 Media Integration
 
